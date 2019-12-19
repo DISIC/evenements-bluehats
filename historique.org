@@ -14,8 +14,8 @@
 - =Lieu= : [[https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html][Lab 110 bis]] (Éducation nationale).
 - =Participants= : 50 par jour.
 - =Annonce= : [[https://www.numerique.gouv.fr/agenda/sprint-open-source-de-la-dinum-et-du-lab-110bis/][Sur numerique.gouv.fr]] et [[https://twitter.com/_DINUM/status/1192481715299725312][Twitter]].
-- =Présentations= : [[file:retex/19-20-11-2019.org][Capsules audio et vidéo]].
-- =Retour d'expérience= : N/A.
+- =Présentations= : [[file:retex/19-20-11-2019-presentations.org][Capsules audio et vidéo]].
+- =Retour d'expérience= : [[file:retex/19-20-11-2019.org][Équipes participantes et retours]].
 
 ** Rencontres #BlueHats lors du Paris Open Source 2019
 
