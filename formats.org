@@ -17,7 +17,7 @@ Les événements #BlueHats ont été déclinés en trois formats.
 
 - [[https://gist.github.com/bzg/601e8d537e1567c6e04db38793803132][Un code de conduite]]
 - Inscriptions : via https://framaforms.org
-- Un formulaire de satisfaction à envoyer aux participants
+- Un [[https://framaforms.org/dataviz-challenge-debrief-participant-1553679222][exemple]] de formulaire de satisfaction
 
 ** COMMENT Rencontres #BlueHats
 ** COMMENT Ateliers #BlueHats 
