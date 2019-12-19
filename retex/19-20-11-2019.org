@@ -18,3 +18,185 @@
 
 - [[https://tube.ac-lyon.fr/videos/watch/cde0870c-bcfb-4262-808a-496de60361ca][Anna-Livia Gomart (DINUM/beta.gouv.fr)]]
 - [[https://tube.ac-lyon.fr/videos/watch/93dc46a1-783e-4922-a76e-06fab43ca3b9][Bastien Guerry (DINUM/Etalab)]]
+
+* Produits participants
+
+** Disinfo (MEAE)
+
+Des outils pour contrer la désinformation :
+
+[[https://desinfo.quaidorsay.fr/fr]]
+
+Nous croyons que les sociétés démocratiques contiennent déjà des
+forces puissantes contre les campagnes de désinformation, mais que ces
+forces sont aujourd'hui trop isolées pour se confronter à des acteurs
+organisés. C'est pourquoi nous pensons que la collaboration, la
+coopération et la mutualisation sont la base d'une réponse efficace.
+Notre équipe développe des outils ouverts au sein du Bureau de
+l'ambassadeur pour le numérique pour faire advenir cet alignement.
+
+- https://github.com/ambanum/disinfo.quaidorsay.fr
+
+Contact produit : matti.schneider@diplomatie.gouv.fr
+
+** Keycloak-FranceConnect (INSEE)
+
+Extension pour utiliser France Connect avec la solution
+d'authentification [[https://www.keycloak.org/][keycloak]]. Elle permet d'ajouter facilement la
+fonctionnalité de connexion/enrôlement France Connect aux services
+utilisant déjà keycloak.
+
+https://github.com/InseeFr/Keycloak-FranceConnect
+
+Contact produit : cedric.couralet@insee.fr
+
+** La bonne formation (Pôle Emploi)
+
+labonneformation.pole-emploi.fr facilite les entrées en formation
+grâce à un catalogue de formations en ligne et des outils d'aide au
+choix comme un simulateur de coûts, le taux de retour à l'emploi par
+formation, ou Anotéa. Depuis janvier, la bonne formation a déclenché
+plus de 100 000 mises en relation avec des organismes de formation.
+
+https://git.beta.pole-emploi.fr/open-source/labonneformation
+
+** Anotéa (Pôle Emploi)
+
+anotea.pole-emploi.fr collecte et diffuse plus de 200 000 notes et
+avis d'anciens stagiaires de formation pour orienter les futurs
+stagiaires.  Disponible en API.
+
+https://github.com/StartupsPoleEmploi/anotea
+
+Contact produit : v.williencourt@pole-emploi.fr
+
+** Trèfle (Pôle Emploi)
+
+Trèfle est un simulateur de dispositifs de financement qui, en
+fonction des données du demandeur et de la formation, va générer une
+liste de financements possibles. Cette liste de financements proposés
+est accompagnée, selon le dispositif, de la rémunération dont pourrait
+bénéficier le demandeur.
+
+https://git.beta.pole-emploi.fr/open-source/trefle
+
+** Signup (DINUM)
+
+Signup est l'outils de gestion des habilitations administratives. Si
+vous souhaitez intégrer le bouton FranceConnect sur le site de votre
+administration, ou si vous souhaitez que votre service en ligne
+manipule des données sensibles en provenance d'une autre
+administration, un parcourt vous sera proposé via Signup pour valider
+votre élégibilité.
+
+https://github.com/betagouv/signup-front/
+
+Contact produit : contact@api.gouv.fr
+
+** Démarches simplifiées (DINUM)
+
+Dématérialiser n'importe quelle démarche administrative en quelques
+minutes.
+
+ -  https://www.demarches-simplifiees.fr
+ -  https://beta.gouv.fr/startups/demarches-simplifiees.fr.html
+ -  https://github.com/betagouv/demarches-simplifiees.fr
+
+Contact produit : philippe.vrignaud@modernisation.gouv.fr
+
+** HAL (CCSD/MESRI)
+
+HAL est un réservoir de documents scientifiques, publiés ou non,
+produits dans le contexte de recherche scientifique et d'enseignement
+supérieur. Créée en 2001 sur le modèle d'arXiv, HAL offre une palette
+de services à la communauté scientifique.
+
+ https://www.ccsd.cnrs.fr/2019/11/publication-du-code-de-hal-un-premier-pas-vers-lopen-source/
+
+-  https://github.com/CCSDForge/FinHal
+-  https://github.com/CCSDForge/CcsdCommon
+
+Contact produit : bruno.marmol@ccsd.cnrs.fr
+
+** template.data.gouv.fr (DINUM)
+
+template.data.gouv.fr est un outil libre qui permet aux nouveaux
+projets de lancer facilement des premières pages au design cohérent à
+l'aide d'un simple fichier css. Il est cependant très améliorable
+visuellement et techniquement, et un oeil extérieur ne serait pas de
+trop pour faire grandir l'outil. Il est peut-être même question de
+lancer une v2...
+
+https://github.com/etalab/template.data.gouv.fr
+
+Contact produit : thimy.kieu@data.gouv.fr
+
+** Mes Aides (DINUM-...)
+
+-  https://github.com/betagouv/mes-aides-ui/tree/vue
+-  https://github.com/betagouv/openfisca-france-local
+
+** MEMO (Pôle Emploi)
+
+memo.pole-emploi.fr permet aux chercheurs d'emploi de gérer l'ensemble
+de leurs candidatures en un seul endroit et de booster leur potentiel.
+
+https://github.com/StartupsPoleEmploi/memo
+
+** Apps.education.fr (MEN)
+
+apps.education.fr est un plateforme de services et d'applications
+libres communes à destination de tous les agents de l'Éducation
+nationale
+
+https://gitlab.mim.ovh/alphabet
+
+Contact produit : marine.gout@education.gouv.fr
+
+** OpenAcadémie (MEN/DINSIC)
+
+https://openacademie.beta.gouv.fr est un collectif de personnels en
+établissements scolaires (principalement intendants) qui produit des
+outils agiles pour faciliter et améliorer la gestion :
+
+Contact produits : etienne.andre@ac-creteil.fr
+
+** Bulletins
+
+Bulletins is a weekly retrospective tool for multiple projects or
+teams.  It lets people reflect on their past week with 4 questions
+which can be answered super quickly:
+
+ -  What's the team mood?
+ -  What were the main goals this week?
+ -  What worked great and what was harder?
+ -  Do we need help?
+
+Documentation: https://bulletins.eig-forever.org 
+Présentation en français : https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html
+
+* Retours divers
+
+- L'équipe coeur était trop peu nombreuse (3 personnes) : il était
+  difficile de gérer tous les aspects de logistique (inscriptions,
+  tenue de la feuille de présence et nourriture, notamment.)
+
+- Une ambiguïté sur la finalité du /sprint open source/  : est-ce un
+  événement interne à l'administration ou une rencontre pour embarquer
+  des contributeurs extérieurs ?  Peut-être faut-il mieux découpler
+  les deux types d'événements et avoir soit des rencontres =#BlueHats=
+  (tournées vers l'extérieur) soit des ateliers =#BlueHats= (tournés
+  vers les agents publics.)
+
+- Chaque projet avait trop peu d'audience et de contributeurs, ceci
+  étant peut-être lié à l'ambiguïté dont il est question ci-dessus.
+
+- Les participants des deux jours n'étaient exactement pas les mêmes :
+  les présentations générales de l'événement ont eu lieu seulement le
+  premier jour.
+
+- Nous devons veiller à adopter un langage plus inclusif pendant les
+  interventions.
+
+- Les sessions improvisées de présentations courtes ont plutôt bien
+  fonctionné.
