@@ -13,8 +13,12 @@ Les événements #BlueHats ont été déclinés en trois formats.
   le clavier » autour de produits /open source/ de l'administration et
   l'ouverture à des contributeurs extérieurs.
 
+* Outils pour tous les formats
+
+- [[https://gist.github.com/bzg/601e8d537e1567c6e04db38793803132][Un code de conduite]]
+- Inscriptions : via https://framaforms.org
+- Un formulaire de satisfaction à envoyer aux participants
+
 ** COMMENT Rencontres #BlueHats
-
 ** COMMENT Ateliers #BlueHats 
-
 ** COMMENT Sprint Open Source
