@@ -1,13 +1,38 @@
 #+title: Documentation autour des événements BlueHats
 
-* Formats
+* Présentation
 
-* Historique
+Ce dépôt fournit de la documentation autour de l'organisation
+d'événements #BlueHats.
 
-- =6/12/2019= : Événement de lancement de la communauté #BlueHats lors
-  du Paris Open Source 2018.
+La communauté #BlueHats est la communauté de ceux qui soutiennent et
+contribuent au développement et à l'utilisation de logiciels libres
+dans l'administration.  Elle a été lancée fin 2018 par la Direction
+interministérielle du numérique ([[https://www.numerique.gouv.fr/][DINUM]]) qui y contribue avec une
+[[https://github.com/DISIC/gazette-bluehats][gazette]] bimensuelle.
 
-- =19-20/11/2019= : Sprint Open Source #BlueHats organisé par la DINUM
-  et le Lab 110 bis.
+Ce dépôt décrit les formats d'événements #BlueHats que toute structure
+(association, entreprise, organisme public) est invitée à s'approprier,
+et donne des informations sur les événements #BlueHats passés portés
+par la DINUM.
 
-- =11/12/2019= : Rencontres #BlueHats lors du Paris Open Source 2019.
+Retrouvez la description des [[file:formats.org][formats d'événements]] et l'[[file:historique.org][historique]] des
+événements #BlueHats passés.
+
+* Contributions
+
+Toutes les contributions sont les bienvenues, sous forme d'/issues/ ou
+de /pull requests/.
+
+* Contact
+
+Pour contacter la DINUM au sujet du mouvement #BlueHats, vous pouvez
+écrire à =bluehats@etalab.gouv.fr=.
+
+* Licence
+
+2019 DINUM, Bastien Guerry.
+
+Ce dépôt est publié sous [[file:LICENSE.txt][licence Ouverte 2.0]].
+
+[[file:images/bluehats.jpg]]
