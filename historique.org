@@ -12,7 +12,7 @@
 
 - =Date= : 19 et 20 novembre 2019.
 - =Lieu= : [[https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html][Lab 110 bis]] (Éducation nationale).
-- =Participants= : 50 par jour.
+- =Participants= : 63 inscriptions par jour, 42 puis 40 personnes par jour.
 - =Annonce= : [[https://www.numerique.gouv.fr/agenda/sprint-open-source-de-la-dinum-et-du-lab-110bis/][Sur numerique.gouv.fr]] et [[https://twitter.com/_DINUM/status/1192481715299725312][Twitter]].
 - =Présentations= : [[file:retex/19-20-11-2019-presentations.org][Capsules audio et vidéo]]
 - =Retour d'expérience= : [[file:retex/19-20-11-2019-equipes.org][Équipes participantes]] et [[file:retex/19-20-11-2019-retours.org][retours]].
@@ -21,7 +21,7 @@
 
 - =Date= : 11/12/2019
 - =Lieu= : [[https://www.openstreetmap.org/node/4383668858?mlat=48.903493881225586&mlon=2.3648205399513245#map=19/48.903493881225586/2.3648205399513245][Dock Pullmann]], 87, avenue des magasins généraux, 93300 Aubervilliers
-- =Participants= : 50 toute la journée
+- =Participants= : 60 inscrits, 50 présents toute la journée
 - =Annonce= : [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2][Sur forum.etalab.gouv.fr]] et [[https://twitter.com/_DINUM/status/1201497346804256768][Twitter]]
 - =Présentations= : [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2?u=bzg][Sur forum.etalab.gouv.fr]]
 - =Retour d'expérience= : N/A.

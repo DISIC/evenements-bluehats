@@ -1,7 +1,14 @@
 Cette page propose des retours informels sur l'organisation du Sprint
 Open Source du 19-20 novembre au Lab 110 bis.
 
-* Retours divers
+* Points positifs
+
+- Les sessions improvisées de présentations courtes ont bien marché.
+
+- Un groupe d'élèves de 3ème est passé au Lab 110 bis et c'était super
+  de répondre à leurs questions.
+
+* Points à améliorer
 
 - L'équipe coeur était trop peu nombreuse (3 personnes) : il était
   difficile de gérer tous les aspects de logistique (inscriptions,
@@ -24,8 +31,28 @@ Open Source du 19-20 novembre au Lab 110 bis.
 - Nous devons veiller à adopter un langage plus inclusif pendant les
   interventions.
 
-- Les sessions improvisées de présentations courtes ont plutôt bien
-  fonctionné.
-
 - Plusieurs participants se sont étonnés qu'il n'y ait pas de moment
   de restitution sur chaque projet à la fin des deux jours.
+
+- Mieux s'organiser en amont pour la collecte des commits produits
+  lors de l'événement.
+
+- Faire une feuille de présence par jour et y ajouter une colonne
+  concernant le droit à l'image.
+
+- Il faut mieux prendre en compte les contraintes alimentaires des
+  participants tel qu'exprimées dans le formulaire d'inscription.
+
+- La thématique « service public » était absente pendant les
+  présentations courtes.
+
+- Mieux communiquer sur qui peut faire des présentations courtes (tout
+  les participants !)
+
+* Ce qu'on a appris
+
+- Les procédures d'installation de nos produits ont besoin d'être
+  testées par la communauté.
+
+
+
