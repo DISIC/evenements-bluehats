@@ -1,10 +1,26 @@
+#+title: Liste des événements #BlueHats (co-)organisés par la DINUM
 
+** Événement de lancement de la communauté #BlueHats lors du Paris Open Source 2018.
 
-- =6/12/2019= : Événement de lancement de la communauté #BlueHats lors
-  du Paris Open Source 2018.
+- Date :: 6 décembre 2019
+- Lieu :: [[https://www.openstreetmap.org/node/4383668858?mlat=48.903493881225586&mlon=2.3648205399513245#map=19/48.903493881225586/2.3648205399513245][Dock Pullmann]], 87, avenue des magasins généraux, 93300 Aubervilliers
+- Participants :: 50 sur toute la journée
+- Annonce :: [[https://www.numerique.gouv.fr/agenda/lancement-rejoignez-la-communaute-blue-hats-hackers-dinteret-general/][Sur numerique.gouv.fr]]
+- Retour d'expérience :: [[https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/][Sur numerique.gouv.fr]]
 
-- =19-20/11/2019= : Sprint Open Source #BlueHats organisé par la DINUM
-  et le Lab 110 bis.
+** Sprint Open Source #BlueHats organisé par la DINUM et le Lab 110 bis
 
-- =11/12/2019= : Rencontres #BlueHats lors du Paris Open Source 2019.
+- Date :: 19 et 20 novembre 2019
+- Lieu :: [[https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html][Lab 110 bis]] (Éducation nationale)
+- Participants :: 50 par jour
+- Annonce :: [[https://www.numerique.gouv.fr/agenda/sprint-open-source-de-la-dinum-et-du-lab-110bis/][Sur numerique.gouv.fr]]
+- Retour d'expérience :: N/A
 
+** Rencontres #BlueHats lors du Paris Open Source 2019
+
+- Date :: 11/12/2019
+- Lieu :: [[https://www.openstreetmap.org/node/4383668858?mlat=48.903493881225586&mlon=2.3648205399513245#map=19/48.903493881225586/2.3648205399513245][Dock Pullmann]], 87, avenue des magasins généraux, 93300 Aubervilliers
+- Participants :: 50 toute la journée
+- Annonce :: [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2][Sur forum.etalab.gouv.fr]]
+- Présentations :: [[https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2?u=bzg][Sur forum.etalab.gouv.fr]]
+- Retour d'expérience :: N/A
