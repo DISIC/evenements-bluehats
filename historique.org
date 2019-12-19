@@ -1,4 +1,4 @@
-#+title: Liste des événements #BlueHats (co-)organisés par la DINUM
+#+title: Événements #BlueHats (co-)organisés par la DINUM
 
 ** Événement de lancement de la communauté #BlueHats lors du Paris Open Source 2018.
 
