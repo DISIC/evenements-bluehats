@@ -1,0 +1,20 @@
+#+title: Les formats d'événements #BlueHats
+
+Les événements #BlueHats ont été déclinés en trois formats.
+
+- Rencontres #BlueHats :: des rencontres ouvertes à l'extérieur de
+  l'administration, avec des présentations courtes.
+
+- Ateliers #BlueHats :: Des sessions « les mains sur le clavier »,
+  pour de l'échange de compétences entre agents publics sur des
+  techologies libres particulières.
+
+- Sprint Open Source :: un format mêlant des sessions « les mains sur
+  le clavier » autour de produits /open source/ de l'administration et
+  l'ouverture à des contributeurs extérieurs.
+
+** COMMENT Rencontres #BlueHats
+
+** COMMENT Ateliers #BlueHats 
+
+** COMMENT Sprint Open Source
