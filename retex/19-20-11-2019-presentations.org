@@ -1,0 +1,22 @@
+Cette page liste les présentations vidéo et audio faite lors du Sprint
+Open Source #BlueHats organisé par la DINUM et le Lab 110 bis.
+
+* Présentations courtes
+
+- [[https://tube.ac-lyon.fr/videos/watch/ef83fc53-50bc-40d3-b37d-1baffa1ced50][Vidéos de la première session de présentations courtes]]
+- [[https://tube.ac-lyon.fr/videos/watch/8288dd9b-d279-4dbc-b179-8015929382a8][Vidéos de la deuxième session de présentations courtes]]
+
+* Retours audio des participants
+
+- [[Sprint open source 19 et 20/11 - Retour participant #6][Michel Blancard (MEAE)]]
+- [[https://tube.ac-lyon.fr/videos/watch/622abc29-edef-4b9a-a39c-762011af691f][Arthur Lutz (Logilab)]]
+- [[https://tube.ac-lyon.fr/videos/watch/acc1d59f-3092-4703-8dc1-0d5bee0b8295][Christophe Villeneuve (consultant pour ATOS)]]
+- [[https://tube.ac-lyon.fr/videos/watch/1bd33b90-dfa4-4372-8733-7bf03788d47e][Etienne André (MENJ)]]
+- [[https://tube.ac-lyon.fr/videos/watch/29ca5123-6e7a-409f-be22-23a1aae5eac1][Manon Léger et Sébastien Touzé (Latitudes.cc)]]
+- [[https://tube.ac-lyon.fr/videos/watch/b7f1c53f-b2ff-4c2a-986b-e7a32a4f72f7][Régis Gréau et Julien Racine (Pôle emploi)]]
+
+* Retours audio des organisateurs
+
+- [[https://tube.ac-lyon.fr/videos/watch/cde0870c-bcfb-4262-808a-496de60361ca][Anna-Livia Gomart (DINUM/beta.gouv.fr)]]
+- [[https://tube.ac-lyon.fr/videos/watch/93dc46a1-783e-4922-a76e-06fab43ca3b9][Bastien Guerry (DINUM/Etalab)]]
+
