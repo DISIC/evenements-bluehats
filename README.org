@@ -9,7 +9,7 @@ La communauté =#BlueHats= est la communauté de ceux qui soutiennent et
 contribuent au développement et à l'utilisation de logiciels libres
 dans l'administration.  Elle a été lancée fin 2018 par la Direction
 interministérielle du numérique ([[https://www.numerique.gouv.fr/][DINUM]]) qui y contribue avec une
-[[https://github.com/DISIC/gazette-bluehats][gazette]] bimensuelle.
+[[https://github.com/DISIC/gazette-bluehats][gazette]] bimensuelle - tout le monde peut [[https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio][s'inscrire à la gazette]].
 
 Ce dépôt décrit les formats d'événements =#BlueHats= que toute structure
 (association, entreprise, organisme public) est invitée à s'approprier,
