@@ -3,21 +3,21 @@
 * Présentation
 
 Ce dépôt fournit de la documentation autour de l'organisation
-d'événements #BlueHats.
+d'événements =#BlueHats=.
 
-La communauté #BlueHats est la communauté de ceux qui soutiennent et
+La communauté =#BlueHats= est la communauté de ceux qui soutiennent et
 contribuent au développement et à l'utilisation de logiciels libres
 dans l'administration.  Elle a été lancée fin 2018 par la Direction
 interministérielle du numérique ([[https://www.numerique.gouv.fr/][DINUM]]) qui y contribue avec une
 [[https://github.com/DISIC/gazette-bluehats][gazette]] bimensuelle.
 
-Ce dépôt décrit les formats d'événements #BlueHats que toute structure
+Ce dépôt décrit les formats d'événements =#BlueHats= que toute structure
 (association, entreprise, organisme public) est invitée à s'approprier,
-et donne des informations sur les événements #BlueHats passés portés
+et donne des informations sur les événements =#BlueHats= passés portés
 par la DINUM.
 
 Retrouvez la description des [[file:formats.org][formats d'événements]] et l'[[file:historique.org][historique]] des
-événements #BlueHats passés.
+événements =#BlueHats= passés.
 
 * Contributions
 
@@ -26,7 +26,7 @@ de /pull requests/.
 
 * Contact
 
-Pour contacter la DINUM au sujet du mouvement #BlueHats, vous pouvez
+Pour contacter la DINUM au sujet du mouvement =#BlueHats=, vous pouvez
 écrire à =bluehats@etalab.gouv.fr=.
 
 * Licence
