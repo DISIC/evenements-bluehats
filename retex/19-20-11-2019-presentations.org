@@ -4,7 +4,17 @@ Open Source #BlueHats organisé par la DINUM et le Lab 110 bis.
 * Présentations courtes
 
 - [[https://tube.ac-lyon.fr/videos/watch/ef83fc53-50bc-40d3-b37d-1baffa1ced50][Vidéos de la première session de présentations courtes]]
+  - Christophe Villeneuve : cybersécurité pour les projets Web
+  - Clément Camin : Le naufrage du Vasa
+  - Bruno Marmol : gérer du code ancien dans un projet
+  - Bastien Guerry : code.etalab.gouv.fr : vers publiccode.yml ?
+
 - [[https://tube.ac-lyon.fr/videos/watch/8288dd9b-d279-4dbc-b179-8015929382a8][Vidéos de la deuxième session de présentations courtes]]
+  - Christophe Villeneuve : Tester et configurer vos profils
+  - Genma : Un mode Kiosk avec Ubuntu en 2019
+  - Matti Schneider : la licence publique de l'Union européenne
+  - Sébastien Beyou : la gestion numérique de la loi
+  - Charles Parmentier : présentation d'Onyxia
 
 * Retours audio des participants
 

@@ -1,8 +1,5 @@
 Cette page liste les équipes produits qui ont participé au Sprint Open
-Source #BlueHats organisé par la DINUM et le Lab 110 bis, ainsi que
-des retours informels sur l'organisation de l'événement.
-
-* Produits participants
+Source #BlueHats organisé par la DINUM et le Lab 110 bis.
 
 ** Disinfo (MEAE)
 
@@ -158,28 +155,3 @@ which can be answered super quickly:
 Documentation: https://bulletins.eig-forever.org 
 Présentation en français : https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/bulletins-outil-retrospective-hebdomadaire.html
 
-* Retours divers
-
-- L'équipe coeur était trop peu nombreuse (3 personnes) : il était
-  difficile de gérer tous les aspects de logistique (inscriptions,
-  tenue de la feuille de présence et nourriture, notamment.)
-
-- Une ambiguïté sur la finalité du /sprint open source/  : est-ce un
-  événement interne à l'administration ou une rencontre pour embarquer
-  des contributeurs extérieurs ?  Peut-être faut-il mieux découpler
-  les deux types d'événements et avoir soit des rencontres =#BlueHats=
-  (tournées vers l'extérieur) soit des ateliers =#BlueHats= (tournés
-  vers les agents publics.)
-
-- Chaque projet avait trop peu d'audience et de contributeurs, ceci
-  étant peut-être lié à l'ambiguïté dont il est question ci-dessus.
-
-- Les participants des deux jours n'étaient exactement pas les mêmes :
-  les présentations générales de l'événement ont eu lieu seulement le
-  premier jour.
-
-- Nous devons veiller à adopter un langage plus inclusif pendant les
-  interventions.
-
-- Les sessions improvisées de présentations courtes ont plutôt bien
-  fonctionné.

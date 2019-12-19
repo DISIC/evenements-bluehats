@@ -1,0 +1,31 @@
+Cette page propose des retours informels sur l'organisation du Sprint
+Open Source du 19-20 novembre au Lab 110 bis.
+
+* Retours divers
+
+- L'équipe coeur était trop peu nombreuse (3 personnes) : il était
+  difficile de gérer tous les aspects de logistique (inscriptions,
+  tenue de la feuille de présence et nourriture, notamment.)
+
+- Une ambiguïté sur la finalité du /sprint open source/  : est-ce un
+  événement interne à l'administration ou une rencontre pour embarquer
+  des contributeurs extérieurs ?  Peut-être faut-il mieux découpler
+  les deux types d'événements et avoir soit des rencontres =#BlueHats=
+  (tournées vers l'extérieur) soit des ateliers =#BlueHats= (tournés
+  vers les agents publics.)
+
+- Chaque projet avait trop peu d'audience et de contributeurs, ceci
+  étant peut-être lié à l'ambiguïté dont il est question ci-dessus.
+
+- Les participants des deux jours n'étaient exactement pas les mêmes :
+  les présentations générales de l'événement ont eu lieu seulement le
+  premier jour.
+
+- Nous devons veiller à adopter un langage plus inclusif pendant les
+  interventions.
+
+- Les sessions improvisées de présentations courtes ont plutôt bien
+  fonctionné.
+
+- Plusieurs participants se sont étonnés qu'il n'y ait pas de moment
+  de restitution sur chaque projet à la fin des deux jours.
