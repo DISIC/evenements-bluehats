@@ -18,7 +18,7 @@ Open Source #BlueHats organisé par la DINUM et le Lab 110 bis.
 
 * Retours audio des participants
 
-- [[Sprint open source 19 et 20/11 - Retour participant #6][Michel Blancard (MEAE)]]
+- [[https://tube.ac-lyon.fr/videos/watch/e5efd4ec-a900-418c-b98e-5f0292225394][Michel Blancard (MEAE)]]
 - [[https://tube.ac-lyon.fr/videos/watch/622abc29-edef-4b9a-a39c-762011af691f][Arthur Lutz (Logilab)]]
 - [[https://tube.ac-lyon.fr/videos/watch/acc1d59f-3092-4703-8dc1-0d5bee0b8295][Christophe Villeneuve (consultant pour ATOS)]]
 - [[https://tube.ac-lyon.fr/videos/watch/1bd33b90-dfa4-4372-8733-7bf03788d47e][Etienne André (MENJ)]]
